@@ -1,1 +1,1 @@
-worker: nodemon indexa.js
+worker: node indexa.js
